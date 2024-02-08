@@ -40,7 +40,7 @@ class Program
             }
         }
 
-        Console.WriteLine("Thank you for playing! Good job!");
+        Console.WriteLine("Thank you for playing! You got it in " + attempts + " Good job!");
 
     }
 }
