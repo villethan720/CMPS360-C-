@@ -1,0 +1,14 @@
+/Users/villaethan/Desktop/Assignment 4 C#/obj/Debug/net8.0/Assignment 4 C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/villaethan/Desktop/Assignment 4 C#/obj/Debug/net8.0/Assignment 4 C#.AssemblyInfoInputs.cache
+/Users/villaethan/Desktop/Assignment 4 C#/obj/Debug/net8.0/Assignment 4 C#.AssemblyInfo.cs
+/Users/villaethan/Desktop/Assignment 4 C#/obj/Debug/net8.0/Assignment 4 C#.csproj.CoreCompileInputs.cache
+/Users/villaethan/Desktop/Assignment 4 C#/bin/Debug/net8.0/Assignment 4 C#
+/Users/villaethan/Desktop/Assignment 4 C#/bin/Debug/net8.0/Assignment 4 C#.deps.json
+/Users/villaethan/Desktop/Assignment 4 C#/bin/Debug/net8.0/Assignment 4 C#.runtimeconfig.json
+/Users/villaethan/Desktop/Assignment 4 C#/bin/Debug/net8.0/Assignment 4 C#.dll
+/Users/villaethan/Desktop/Assignment 4 C#/bin/Debug/net8.0/Assignment 4 C#.pdb
+/Users/villaethan/Desktop/Assignment 4 C#/obj/Debug/net8.0/Assignment 4 C#.dll
+/Users/villaethan/Desktop/Assignment 4 C#/obj/Debug/net8.0/refint/Assignment 4 C#.dll
+/Users/villaethan/Desktop/Assignment 4 C#/obj/Debug/net8.0/Assignment 4 C#.pdb
+/Users/villaethan/Desktop/Assignment 4 C#/obj/Debug/net8.0/Assignment 4 C#.genruntimeconfig.cache
+/Users/villaethan/Desktop/Assignment 4 C#/obj/Debug/net8.0/ref/Assignment 4 C#.dll
